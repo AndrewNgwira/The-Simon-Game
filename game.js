@@ -4,6 +4,8 @@ var gamePattern = [];
 
 var userClickedPattern = [];
 
+// It begins
+
 // Check which button got pressed and save the id of the button
 // Event handler on the buttons
 $(".btn").click(function(){
